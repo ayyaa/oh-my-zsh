@@ -65,6 +65,6 @@ Misal, Kita mencari direktori ```Aplication``` dengan mengetikan command ```cd a
 misal, apabila kita menginputkan hanya 'do' akan menglengkapi `document` atau `download`
 - Menyediakan Alias untuk command populer, seperti :
 1. ``` git status``` jadi ``` gst```
-2. ``` ls -liah ``` jadi ```ll```
+2. ``` ls -lh ``` jadi ```ll```
 3. dll
 - Bisa mengganti tema seperti pada nomer 5
