@@ -1,7 +1,5 @@
-# oh-my-zsh
-Oh My ZSH
 
-# Dokumentasi 
+# Oh My ZSH
 
 ## 1. Shell dan ZSH
 
